@@ -1,5 +1,6 @@
 # ServerClientDemo
 Created by Emma Sturm 12/13/2024
+
 Mini demo of a server and client model written in C
 To compile the code, please move all three files into a directory on your computer terminal.
 Then type in 'make' and it will create object files for both the client and server executable.
